@@ -1,0 +1,42 @@
+.navbar{
+    background-image: url(pexels-photomix-company-212372.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 535px;
+}
+ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(46, 42, 42);
+    position: sticky;
+    top: 0%;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: grey;
+}
+.heading{
+    text-align: center;
+}
+.manga{
+    padding-top: 40p;
+}
+.mangathokunnji{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 40px;
+    color: white;
+    background-color: rgb(44, 43, 43);
+    
+}
